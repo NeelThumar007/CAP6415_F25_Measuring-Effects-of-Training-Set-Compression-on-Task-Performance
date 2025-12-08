@@ -1,26 +1,16 @@
-#️⃣ Goal
+# Goal: Create GitHub repository and set up project.
 
-Create GitHub repository and set up project.
-
-#️⃣ Work Completed
+Work Completed:
 
 Created the GitHub repository.
 
-Set up Jupyter Notebook environment.
+Set up the Jupyter Notebook development environment.
 
-Installed required libraries:
+Installed required libraries (TensorFlow, NumPy, Matplotlib, scikit-learn).
 
-TensorFlow
+Reviewed the Fashion-MNIST dataset and finalized the project idea.
 
-NumPy
-
-Matplotlib
-
-scikit-learn
-
-Reviewed the Fashion-MNIST dataset and finalized the project plan.
-
-Selected dataset compression techniques:
+Selected dataset compression methods to test:
 
 Random Subsampling
 
@@ -29,23 +19,15 @@ Class-Balanced Sampling
 KMeans Prototype Selection
 
 PCA Dimensionality Reduction
+Challenges:
 
-#️⃣ Challenges
+Deciding which compression methods should be included.
 
-Deciding which compression methods to include.
+Planning the project timeline for 5 weeks.
+Deliverables:
 
-Planning the workflow for the 5-week timeline.
+Repository created
 
-#️⃣ Deliverables
+Project structure planned
 
-GitHub repository created
-
-Project structure set up
-
-Initial notebook prepared
-
-Compression technique list finalized
-
-#️⃣ Summary
-
-Week 1 focused on setting up the project environment, preparing the repository, understanding the dataset, and selecting the methods to be implemented in later weeks.
+Initial environment ready
