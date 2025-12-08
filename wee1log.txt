@@ -1,0 +1,9 @@
+===============================
+WEEK 1 – PROJECT SETUP & PLANNING
+===============================
+• Defined the overall project scope and key objectives.
+• Set up the development environment (Python, required libraries, Jupyter Notebook).
+• Created GitHub repository with folders: src/, data/, logs/, notebooks/.
+• Conducted background research related to the domain and model requirements.
+• Explored dataset sources and evaluated dataset suitability.
+• Planned preliminary timeline and milestone checkpoints.
