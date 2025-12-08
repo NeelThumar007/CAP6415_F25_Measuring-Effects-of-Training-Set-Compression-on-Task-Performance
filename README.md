@@ -55,11 +55,15 @@ Full plots and numerical results are available in the notebook.
 ## 📝 Weekly Logs
 Progress documentation is provided through:
 
-wee1.txt (Week 1)
-Week2.txt (Week 2)
-Week3.txt (Week 3)
-week4.txt (Week 4)
-week5.txt (Week 5)
+-wee1.txt (Week 1)
+
+-Week2.txt (Week 2)
+
+-Week3.txt (Week 3)
+
+-week4.txt (Week 4)
+
+-week5.txt (Week 5)
 
 
 ---
