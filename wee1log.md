@@ -1,12 +1,18 @@
-#Goal: Create GitHub repository and set up project.
-
 Work Completed
 
 Created the GitHub repository.
 
 Set up Jupyter Notebook environment.
 
-Installed required libraries (TensorFlow, NumPy, Matplotlib, scikit-learn).
+Installed required libraries:
+
+TensorFlow
+
+NumPy
+
+Matplotlib
+
+scikit-learn
 
 Reviewed Fashion-MNIST dataset and finalized project plan.
 
@@ -14,7 +20,7 @@ Selected dataset compression techniques:
 
 Random Subsampling
 
-Class‐Balanced Sampling
+Class-Balanced Sampling
 
 KMeans Prototype Selection
 
@@ -28,4 +34,10 @@ Planning the workflow for the 5-week timeline.
 
 Deliverables
 
-Repository created
+GitHub repository created
+
+Project structure set up
+
+Initial notebook prepared
+
+Finalized project plan
