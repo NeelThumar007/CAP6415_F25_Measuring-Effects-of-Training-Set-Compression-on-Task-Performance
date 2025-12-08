@@ -1,4 +1,8 @@
-Work Completed
+#️⃣ Goal
+
+Create GitHub repository and set up project.
+
+#️⃣ Work Completed
 
 Created the GitHub repository.
 
@@ -14,7 +18,7 @@ Matplotlib
 
 scikit-learn
 
-Reviewed Fashion-MNIST dataset and finalized project plan.
+Reviewed the Fashion-MNIST dataset and finalized the project plan.
 
 Selected dataset compression techniques:
 
@@ -26,13 +30,13 @@ KMeans Prototype Selection
 
 PCA Dimensionality Reduction
 
-Challenges
+#️⃣ Challenges
 
 Deciding which compression methods to include.
 
 Planning the workflow for the 5-week timeline.
 
-Deliverables
+#️⃣ Deliverables
 
 GitHub repository created
 
@@ -40,4 +44,8 @@ Project structure set up
 
 Initial notebook prepared
 
-Finalized project plan
+Compression technique list finalized
+
+#️⃣ Summary
+
+Week 1 focused on setting up the project environment, preparing the repository, understanding the dataset, and selecting the methods to be implemented in later weeks.
