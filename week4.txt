@@ -1,0 +1,9 @@
+===============================
+WEEK 4 – ADVANCED MODEL DEVELOPMENT & EXPERIMENTS
+===============================
+• Implemented improved/advanced model architecture.
+• Introduced regularization, callbacks, data augmentation, and optimizers.
+• Conducted multiple experiments comparing baseline vs improved model.
+• Visualized feature maps, activation layers, and convolution outputs.
+• Analyzed experimental results and documented conclusions.
+• Fixed bugs and optimized training performance.
