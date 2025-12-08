@@ -1,0 +1,9 @@
+===============================
+WEEK 3 – MODEL DESIGN & BASELINE IMPLEMENTATION
+===============================
+• Designed baseline model architecture based on project requirements.
+• Implemented baseline model training and evaluation.
+• Tuned basic hyperparameters: batch size, epochs, learning rate.
+• Logged metrics: training/validation accuracy, loss curves.
+• Reviewed model performance and identified improvement areas.
+• Updated GitHub with model files, comments, and experiment logs.
